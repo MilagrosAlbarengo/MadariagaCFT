@@ -1,9 +1,11 @@
-import "./styles.css";
-
-document.getElementById("app").innerHTML = `
-<h1>Hello Vanilla!</h1>
-<div>
-  We use the same configuration as Parcel to bundle this sandbox, you can find more
-  info about Parcel 
-  <a href="https://parceljs.org" target="_blank" rel="noopener noreferrer">here</a>.
-</div>`;
+console.log("Supermercado Cumelen");
+console.log("gaseosa coca cola por 2.25 lts", "50 unidades");
+console.log("fideos soperos lucchetti ", "35 unidades");
+console.log("pure de tomate arcor", "40 unidades");
+console.log("arroz primavera arcor", "20 unidades");
+console.log("caldo para sopa por 12 cubos", "25 unidades");
+console.log("fideos soperos mattarazzo", "30 unidades");
+console.log("atun por 250 gr al natural", "30 unidades");
+console.log("papel higienico scott por 4 rollos", "30 unidades");
+console.log("detergente por 500 cm3 ala", "25 unidades");
+console.log("aceite natura por 900 cm3", "50 unidades");
