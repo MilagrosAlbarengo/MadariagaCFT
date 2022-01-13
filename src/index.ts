@@ -43,4 +43,4 @@ let producto10: string = "pan rallado";
 let stock10: number = 30;
 let precio10: number = 170;
 console.log("el nombre del super es:" + nombreDeSuper);
-console.log;
+console.log ("se compraron" stock9 - 48, producto9, "por $" precio9*2, "queda en stock" stock9-2);
